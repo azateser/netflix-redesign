@@ -9,18 +9,18 @@
 
 # Road Map
 
-[ ] Login Page
-[ ] Register Page
-[ ] Reset Password Page
-[ ] Verify Account Page
-[ ] 2 factory Auth. Page
-[X] Who Watching Page
-[ ] Home Page
-[ ] Series Page
-[ ] Movies About Page
-[ ] Video Player Page
-[ ] Profile Page
-[ ] My List (Favori) Page
+[ ] Login Page <br />
+[ ] Register Page <br />
+[ ] Reset Password Page <br />
+[ ] Verify Account Page <br />
+[ ] 2 factory Auth. Page <br />
+[X] Who Watching Page <br />
+[ ] Home Page <br />
+[ ] Series Page <br />
+[ ] Movies About Page <br />
+[ ] Video Player Page <br />
+[ ] Profile Page <br />
+[ ] My List (Favori) Page <br />
 [ ] Settings Page
 
 
