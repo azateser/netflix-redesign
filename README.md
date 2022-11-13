@@ -1,4 +1,6 @@
-# Edit Readme
+# Netflix Redesgin
+
+![image](./readme_files/main.png)
 
 ## Active Pages
 
