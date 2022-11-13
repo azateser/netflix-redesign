@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Azat",
+    "surname": "ESER",
+    "profile_image": "p_red"
+  },
+  {
+    "id": 2,
+    "name": "Zeynep",
+    "surname": "ESER",
+    "profile_image": "p_green"
+  },
+  {
+    "id": 3,
+    "name": "Atlas",
+    "surname": "ESER",
+    "profile_image": "p_blue"
+  }
+
+]
